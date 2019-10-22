@@ -1,1 +1,0 @@
-var ably = require('../companion/ably');
